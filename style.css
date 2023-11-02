@@ -1,0 +1,30 @@
+.container{ 
+    
+    width: 100%;
+}
+.lab{
+
+    width: 450px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center ;
+    
+
+}
+.case{
+    width: 100px;
+    height:100px;
+    background-color: white;
+    border: solid 2px black; 
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+#display {
+    width: 450px;
+}
+#m{
+    background-color: blue;
+}
